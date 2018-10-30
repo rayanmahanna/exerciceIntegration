@@ -88,6 +88,7 @@ header {
   color: #081299;
   font-family: STWLight;
   font-size: 60px;
+  width: 30%;
 }
 #righttext {
   width: 30%;
@@ -114,4 +115,18 @@ header {
 }
 #slider {
   height: 40%;
+}
+
+/*--------------------------------------------LAST SECTION --------------------------------------------------*/
+#h2n3 {
+  color: #081299;
+  font-family: STWLight;
+  font-size: 60px;
+  width: 30%;
+  padding-top: 20%;
+  padding-bottom: 15%;
+}
+
+#lastsection {
+  width: 80%;
 }
